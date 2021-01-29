@@ -11,3 +11,7 @@ https://github.com/acmesh-official/acme.sh
 # 配合定时任务
 可以完美实现 https泛域名的自动续签更新到rancher上
 
+token-zl7p8
+b5ttfb9pbdq98dz89p7k8thhvqdbmln4kl92pmrp59rlgxdkqkvfnz 
+
+
